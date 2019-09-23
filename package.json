@@ -1,0 +1,15 @@
+{
+  "name": "landinglatam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "4.5.0"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass --output-style compressed -o dist/css src/scss"
+  },
+  "author": "julio Rodriguez",
+  "license": "ISC"
+}
