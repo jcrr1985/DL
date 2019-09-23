@@ -4,19 +4,20 @@
   background-attachment: fixed;
   background-size: cover;
   width: 100%;
-  height: 89vh;
+  height: 75vh;
 }
-
-.main-nav {
+.section1 .main-nav {
   padding-top: 1.5rem !important;
   padding-bottom: 1.5rem !important;
   padding-left: 10rem !important;
   padding-right: 10rem !important;
   background-color: transparent !important;
 }
-
-.main-title {
+.section1 .main-title {
   margin-top: 3rem;
+  color: #fff;
+}
+.section1 .section1-caption {
   color: #fff;
 }
 
