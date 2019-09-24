@@ -21,4 +21,21 @@
   color: #fff;
 }
 
+.inner-wrapper-sections {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.section2 .happypeople {
+  width: 60%;
+}
+
+.section {
+  border-bottom: 1px solid gray;
+}
+
+p {
+  color: #333;
+}
+
 /*# sourceMappingURL=main.css.map */
