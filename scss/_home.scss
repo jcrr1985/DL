@@ -18,13 +18,21 @@
         margin-top: 3rem;
         color: #fff;
     }
-    .section1-caption{
+
+    .section1-caption {
         color: #fff;
 
     }
-    
+
 }
-.inner-wrapper-sections{
+
+.inner-wrapper-sections {
     margin: 0 auto;
-            width: 60%;
-        }
+    width: 60%;
+}
+
+@media screen and (max-width: 575px){
+    .section1{
+        height: auto;
+    }
+}

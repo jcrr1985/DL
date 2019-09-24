@@ -26,6 +26,11 @@
   width: 60%;
 }
 
+@media screen and (max-width: 575px) {
+  .section1 {
+    height: auto;
+  }
+}
 .section2 .happypeople {
   width: 60%;
 }
