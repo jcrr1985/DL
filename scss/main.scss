@@ -1,5 +1,9 @@
-@import 'home';
-@import 'section2';
 p{
-    color: #333;
+   
 }
+@import 'section2';
+@import 'home';
+
+
+    p.main-sub-title{
+        color: #fff!important;}

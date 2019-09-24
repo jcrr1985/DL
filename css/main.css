@@ -1,3 +1,11 @@
+.section2 .happypeople {
+  width: 60%;
+}
+
+.section {
+  border-bottom: 1px solid gray;
+}
+
 .section1 {
   background-image: url("../images/bg.jpeg");
   background-position: center center;
@@ -17,8 +25,8 @@
   margin-top: 3rem;
   color: #fff;
 }
-.section1 .section1-caption {
-  color: #fff;
+.section1 p.main-sub-title, .section1 .section1-caption {
+  color: #fff !important;
 }
 
 .inner-wrapper-sections {
@@ -31,16 +39,8 @@
     height: auto;
   }
 }
-.section2 .happypeople {
-  width: 60%;
-}
-
-.section {
-  border-bottom: 1px solid gray;
-}
-
-p {
-  color: #333;
+p.main-sub-title {
+  color: #fff !important;
 }
 
 /*# sourceMappingURL=main.css.map */
